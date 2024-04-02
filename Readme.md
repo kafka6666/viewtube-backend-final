@@ -49,7 +49,8 @@ Cloudinary (must have an account)
 Installation and Setup
 Clone the repository:
 
-git clone https://github.com/kafka6666/ViewTube-backend.git
+git clone https://github.com/kafka6666/viewtube-backend-final.git
+
 Install dependencies:
 
 cd viewtube-backend
@@ -59,6 +60,7 @@ Set up environment variables: Create a .env in root of project and fill in the r
 Start the server:
 
 npm run dev
+
 Contributing
 If you wish to contribute to this project, please feel free to contribute.
 
